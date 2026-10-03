@@ -4,7 +4,7 @@ A simple and modern desktop diary application built with Electron.
 
 ## 📥 Download
 
-<a href="https://github.com/ivan-noel/Diary-Note/releases/tag/v1.0.0">⬇️ Download Diary Note for Windows</a>
+<a href="https://github.com/ivan-noel/Diary-Note/releases/tag/v1.0.0">⬇️ Download Diary Note</a>
 
 Download the latest Windows installer from the official GitHub Release page.
 
